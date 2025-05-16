@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4713132414584926997}
   - component: {fileID: 8573434740695478269}
   - component: {fileID: 182467032001111443}
-  - component: {fileID: 1641328313954697903}
+  - component: {fileID: -5244943620232218650}
   m_Layer: 0
   m_Name: Good 2
   m_TagString: Untagged
@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.02, y: 5.42, z: 0}
-  m_LocalScale: {x: 2.5, y: 2.5, z: 2.5}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -134,7 +134,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.32699585, y: 0.32699984, z: 0.32700062}
   m_Center: {x: 0, y: 0.16349992, z: 0}
---- !u!114 &1641328313954697903
+--- !u!114 &-5244943620232218650
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

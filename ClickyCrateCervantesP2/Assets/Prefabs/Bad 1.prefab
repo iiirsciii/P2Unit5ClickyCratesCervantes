@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 333552370765356217}
   - component: {fileID: 8032248579015003700}
   - component: {fileID: 3413226861747578489}
-  - component: {fileID: 405342115858173167}
-  - component: {fileID: -5001254604317393671}
+  - component: {fileID: -3389976410973025301}
+  - component: {fileID: 7877761006323383672}
   m_Layer: 0
   m_Name: Bad 1
   m_TagString: Untagged
@@ -32,7 +32,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.0015707754, z: 0, w: 0.9999988}
   m_LocalPosition: {x: 0, y: 3.02, z: 0}
-  m_LocalScale: {x: 2.5, y: 2.5, z: 2.5}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -135,7 +135,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!65 &405342115858173167
+--- !u!65 &-3389976410973025301
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -156,7 +156,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.42606845, y: 0.60958624, z: 0.44799495}
   m_Center: {x: -0.000000014901161, y: 0.08079566, z: 0.000000052154064}
---- !u!114 &-5001254604317393671
+--- !u!114 &7877761006323383672
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
